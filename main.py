@@ -2,7 +2,7 @@ def double(nb):
     return nb * 2
 
 def triple(nb):
-    return nb * 4
+    return nb * 3
 
 def quadruple(nb):
     return nb * 4
